@@ -1,6 +1,6 @@
 # Local function approximation (LFA) framework
 
-This repository contains code to reproduce results in our NeurIPS 2022 publication ["Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post hoc Explanations"](https://arxiv.org/abs/2206.01254). 
+This repository contains code to reproduce results in our NeurIPS 2022 publication ["Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post Hoc Explanations"](https://arxiv.org/abs/2206.01254). 
 
 
 ## Usage
