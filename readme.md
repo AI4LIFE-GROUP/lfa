@@ -32,7 +32,7 @@ If this work was useful for your research, please consider citing the paper.
 ```
 @inproceedings{lfa2022,
     title={Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post hoc Explanations},
-    author={Han, Tessa, Srinivas, Suraj, and Lakkaraju, Himabindu},
+    author={Han, Tessa, and Srinivas, Suraj, and Lakkaraju, Himabindu},
     booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
     year={2022}
 }
