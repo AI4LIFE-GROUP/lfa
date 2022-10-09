@@ -27,7 +27,7 @@ To reproduce results, navigate into the repository follow the steps below.
 
 ## Citation
 
-If this work was useful for your research, please consider citing the paper.
+If this work is useful to your research, please cite the paper.
 
 ```
 @inproceedings{lfa2022,
