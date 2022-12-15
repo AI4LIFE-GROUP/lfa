@@ -27,11 +27,9 @@ To reproduce results, navigate into the repository follow the steps below.
 
 ## Citation
 
-If this work is useful to your research, please cite the paper.
-
 ```
 @inproceedings{lfa2022,
-    title={Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post hoc Explanations},
+    title={Which Explanation Should I Choose? A Function Approximation Perspective to Characterizing Post Hoc Explanations},
     author={Han, Tessa, and Srinivas, Suraj, and Lakkaraju, Himabindu},
     booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
     year={2022}
